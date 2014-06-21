@@ -66,3 +66,7 @@ For more informations, see also :
 
 
 [![githalytics.com alpha](https://cruel-carlota.pagodabox.com/abd9bce9df6164dedaa164cbf971ed21 "githalytics.com")](http://githalytics.com/nicolaspanel/libsvm.net)
+
+
+
+http://crsouza.blogspot.hu/2010/04/kernel-support-vector-machines-for.html
